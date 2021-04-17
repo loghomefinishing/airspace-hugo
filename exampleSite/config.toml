@@ -54,13 +54,13 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "970 368 2308"
+email = "tom@loghomefinishing.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+Log Home Finishing LLC
+PO Box 21
+Fairplay, CO 80440  
+USA
 """
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
