@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: "images/Buena Vista.jpg"
+  bg_image: images/Buena Vista.jpg
   bg_overlay: true
   title: A Digital Marketing <br/> & Design Agency
   content: We love the Web and the work we do.We work closely with our clients to
@@ -91,5 +91,6 @@ funfacts:
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
 title: Log Home Finishing
+description: Colorado Log Home Maintenance and Repair
 
 ---
