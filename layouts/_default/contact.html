@@ -21,6 +21,10 @@
               <label for="subject" hidden>{{ i18n "contact_form_subject" }}</label>
               <input id="subject" name="subject" type="text" class="form-control" placeholder="{{ i18n "contact_form_subject" }}" required>
             </div>
+            <div class="form-group">
+              <label for="photo" hidden>{{ i18n "contact_photo" }}</label>
+              <input id="photo" name="photo" type="file" class="form-control" placeholder="{{ i18n "contact_photo" }}" required>
+            </div>
             {{ if .use_netlify }}
             <div class="form-group-h">
               <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
