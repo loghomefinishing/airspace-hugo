@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "About Log Home Finishing LLC"
+description: "A Colorado Log Home Maintenance Professional"
 bg_image: "/images/GoldtoneMedium.jpg"
 layout: "about"
 draft: false
