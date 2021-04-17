@@ -13,6 +13,8 @@ other = "Categories"
 other = "Your e-mail address"
 [contact_form_message]
 other = "Message"
+[contact_form_photo]
+other = "photo"
 [contact_form_name]
 other = "Your name"
 [contact_form_subject]
