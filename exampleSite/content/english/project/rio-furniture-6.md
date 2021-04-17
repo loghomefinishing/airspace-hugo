@@ -1,5 +1,5 @@
 ---
-title: Rio Furniture
+title: Boulder Log Home Finishing
 description: this is meta description
 image: "/images/portfolio/work2.jpg"
 bg_image: "/images/portfolio/work2.jpg"
