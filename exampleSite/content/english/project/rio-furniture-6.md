@@ -7,20 +7,18 @@ category: All
 information:
 - label: Log Home Restoration
   info: Full interior and exterior log home restoration.
-- label: Client
-  info: Jannie Kelonsky
 - label: What We Did
-  info: Website Redesign
+  info: Log Home Restoration
 - label: Tools Used
   info: Media blasting, staining, chinking.
 - label: Completed on
-  info: 17th March 2014
+  info: 17th March 2021
 - label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+  info: Media blasting / staining / chinking / log repair
 
 ---
 ## Log Home Finishing project in Boulder, Colorado.
 
 Log Home Finishing project in Boulder, Colorado.  Media blasting, staining, chinking.
+
+![](/images/4l6a7904.jpg)
