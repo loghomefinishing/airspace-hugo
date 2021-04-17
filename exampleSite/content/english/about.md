@@ -1,7 +1,7 @@
 ---
 title: "About Our Company"
 description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+bg_image: "/images/GoldtoneMedium.jpg"
 layout: "about"
 draft: false
 
@@ -9,8 +9,8 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
+  image : "/images/GoldtoneMedium.jpg"
+  title : "A dedicated team of log home maintenance <br> professionals at your service."
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
           
           
