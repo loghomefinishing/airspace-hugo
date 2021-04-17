@@ -1,10 +1,12 @@
 ---
 title: Boulder Log Home Finishing
-description: this is meta description
+description: Log Home Restoration Boulder, Colorado
 image: "/images/portfolio/work2.jpg"
 bg_image: "/images/portfolio/work2.jpg"
-category: Video
+category: All
 information:
+- label: Log Home Restoration
+  info: Full interior and exterior log home restoration.
 - label: Client
   info: Jannie Kelonsky
 - label: What We Did
