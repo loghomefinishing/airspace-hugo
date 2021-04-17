@@ -92,6 +92,5 @@ funfacts:
       make us stand out from the crowd.
 title: Log Home Finishing
 description: Colorado Log Home Maintenance and Repair
-draft: true
 
 ---
