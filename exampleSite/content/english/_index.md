@@ -3,12 +3,11 @@ banner:
   enable: true
   bg_image: images/Buena Vista.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  title: Log Home Finishing <br/> Log Home Maintenance
+  content: Colorado's most comprehensive team of log home repair professionals.  You won't find a more dedicate team!
   button:
     enable: true
-    label: Discover Our Project
+    label: See Our Work
     link: project
 about:
   enable: true
@@ -22,10 +21,10 @@ about:
     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
     fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
     culpa qui officia deserunt mollit anim id.
-  image: images/wrapper-img.png
+  image: images/Indian Mountain Log Home.jpg
 portfolio:
   enable: true
-  bg_image: images/feature-bg.jpg
+  bg_image: images/Buena Vista.png
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
